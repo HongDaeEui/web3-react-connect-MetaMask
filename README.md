@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-![image](https://user-images.githubusercontent.com/43264739/150094755-3b5340b9-d588-4eda-b3ea-f5472a20639a.png)
+![image](https://user-images.githubusercontent.com/43264739/150094986-87195e7a-9640-41b9-a8a2-68e98e4046a7.png)
 
 
 ### blog post : https://pastelblockchain.tistory.com/43
